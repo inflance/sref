@@ -442,4 +442,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
-build/
+build/*
